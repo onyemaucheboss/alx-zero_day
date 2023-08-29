@@ -1,1 +1,2 @@
-the first repo directory
+the first repo directory 
+updated script
